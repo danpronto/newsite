@@ -1,0 +1,304 @@
+
+/*My Code*/
+body {
+	background: #fff;
+	color: #9fa8a3;
+	font:400 16px/22px "lato", "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: block;
+	min-width: 11px;
+	padding: 0 33px;
+}
+
+.header1 a, .footer1 a {
+	color: #9fa8a3;
+	text-decoration: none;
+
+}
+
+
+header {
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	background: #e3e3e3;
+	line-height: 2em;
+
+}
+
+.legit a {
+	color: red;
+	font-size: 14px;
+	text-align: center;
+	align-content: center;
+	font-weight: 888px;
+	display: block;
+
+
+}
+
+.danprontoCACcert img {
+	width: 60%;
+
+}
+.danprontoCACcert {
+font-size: 16px;
+text-align: center;
+line-height: 1.5em;
+}
+
+main {
+	overflow: hidden;
+	display: block;
+	background: #fff;
+	background: -webkit-linear-gradient(to right bottom, #e3e3f3, #fff);
+	background: 	-moz-linear-gradient(to right bottom, #e3e3f3, #fff);
+	background: 		linear-gradient(to right bottom, #e3e3f3, #fff);
+	background:				-webkit-linear-gradient(to right bottom, #e3e3f3, #fff);
+	background: 				-moz-linear-gradient(to right bottom, #e3e3f3, #fff);
+	background: 					linear-gradient(to right bottom, #e3e3f3, #fff);
+}
+
+main section {
+	margin: 33px;
+}
+
+main section ul li {
+	list-style: none;
+}
+.danlogo {
+	display: block;
+	margin: auto;
+	padding: 5px 5px 3px 5px;
+	text-align: center;
+	min-height: 55px;
+}
+
+#logo h1 {
+	font-size: 65px;
+	display: block;
+	margin: 0px;
+	padding: 5px;
+	text-align: center;
+}
+
+#logo img {
+	width: 111px;
+}
+
+.highlight {
+	color: #353837;
+	font-family: forte, Helvetica, Arial, sans-serif;
+}
+
+footer p {
+	text-align: center;
+	font-size: small;
+}
+
+.header1 a:hover, .footer1 a:hover {
+	color: #fff;
+}
+
+.header1 a:active, .footer1 a:active {
+	color: #ace2ace0;
+}
+
+.midpage {
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.midpage .intro h1 {
+	font-size: 26px;
+	text-align: center;
+}
+
+
+footer nav ul li, header nav ul li {
+	font-size: 15px;
+	float: right;
+	list-style: none;
+	display: block;
+	padding: 5px 16px;
+}
+
+.servicesexpo {
+	min-width: 33px;
+	padding: 3px 0 22px 0;
+}
+
+.servicesexpo a {
+	color: #9fa8a3;
+	font-size: 22px;
+}
+
+.servicesexpo img {
+	width: 300px;
+}
+
+.stubLogo1 img {
+	width: 211px;
+}
+
+footer {
+	padding: 10px 5px 15px 5px;
+	font-size: 20px;
+	font-weight: 100%;
+	background: #e3e3e3;
+}
+
+a:hover, a:active {
+	color: #9fa8a3;
+
+}
+
+
+.viewSyllabus a {
+	color: #9fa8a3;
+	font-size: 20px;
+	text-decoration:;
+	background: #e3e3f3;
+	border-style: solid;
+	border-radius: 15px;
+	border-width: 5px;
+	border-color: #e3e3f3;
+}
+
+
+/*About CSS*/
+
+.aboutUsCenter h1 {
+	text-align: center;
+	font-size: 42px;
+	padding-top: 42px;
+}
+
+#makeGradrient, #aboutBelowShow {
+	color: #535655;
+	line-height: 16px;
+	text-align: center;
+	min-width: 33px;
+	display: inline-block;
+}
+
+#aboutBelowShow a {
+	color: #9fa8a3;
+	text-decoration-style: #9fa8a3;
+}
+
+.floatTag {
+	color: #353837;
+	font-size: 12px;
+	margin: center;
+	display: inline-block;
+	text-align: center;
+	padding: 5px 5px;
+}
+
+.floatTag img {
+	width: 100px;
+	align-content: center;
+}
+
+.pyfloat img {
+	width: 70px;
+}
+
+
+.floatTag a {
+	line-height: 16px;
+	display: inline-block;
+	text-overflow: hidden;
+}
+
+.floatTag figcaption {
+	background: #e3e3f3;
+	padding: 1px;
+	border-style: solid;
+	border-radius: 8px;
+	border-width: 3px;
+	border-color: #e3e3f3;
+}
+
+.ceo {
+	float: right;
+	font-size: 14px;
+	color: #9fa8a3;
+	font-weight: 588px;
+	line-height: 16px;
+	text-align: center;
+}
+
+.ceo .italize {
+	font-style: italic;
+	font-size: 12px;
+}
+
+.ceo img {
+	width: 111px;
+	height: 154px;
+}
+/*course overviews*/
+
+.genOverView h1 {
+	font-size: 34px;
+	line-height: 1em;
+	text-align: center;
+}
+
+.genOverView p {
+	align-content: center;
+	margin: 0 44px;
+	text-align: center;
+}
+
+.courseLogo {
+	float: right;
+	font-size: 12px;
+	align-content: center;
+
+}
+
+.courseLogo img {
+	width: 150px;
+	padding-right: 111px;
+}
+
+.courseLogo figcaption {
+	text-align: center;
+	padding-right: 111px;
+	color: #9fa8a3;
+}
+
+.courseLogo a {
+	text-decoration-color: #9fa8a3;
+}
+
+
+
+/*Complete Sylabus*/
+
+.syllabusLogo img {
+	width: 88px;
+	float: right;
+}
+
+.WebCourseLinks a {
+	color: #9fa8a3;
+	font-size: 18px;
+}
+
+.WebCourseLinks {text-align: center;}
+
+/*Form*/
+
+/*.FormatForm {
+	margin-top: 2px;
+	margin-bottom:2px;
+	margin-left: 288px; 
+	margin-right:288px;
+	border-style: solid;
+	padding: 12px;
+	align-content: center;
+	display: block;
+}*/
